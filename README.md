@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
 - 👀 I’m interested in IT Specialist
-- 🌱 I’m currently learning MATLAB, python, 
-- 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu and windows server)
+- 🌱 I’m currently learning python, unity3d, asp.net
+- 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
 - 📫 How to reach me https://www.linkedin.com/in/yuşa/?locale=en_US OR https://www.instagram.com/yusacagatay/
 
 <!---
