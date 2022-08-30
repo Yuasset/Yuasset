@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href ="https://www.instagram.com/yusacagatay/" role="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
  
