@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning python, unity3d, asp.net
 - 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
 - 📫 How to reach me https://www.linkedin.com/in/yuşa/?locale=en_US OR https://www.instagram.com/yusacagatay/
-- 🧑‍💻 Full-Stack <b>Software Engineer</b>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help -=^.^=-
 
@@ -36,6 +35,9 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href ="https://www.linkedin.com/in/yuşa/?locale=en_US" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://www.instagram.com/yusacagatay/" role="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
  
