@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in IT Specialist
 - 🌱 I’m currently learning python, unity3d, asp.net
 - 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
-- 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me" role="# 🤝 Contact Me"/>
+- 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me"># 🤝 Contact Me</a>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help ( ͡° ͜ʖ ͡°)
 
