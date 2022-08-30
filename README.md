@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yuasset&theme=blueberry_duo&hide_border=true&locale=tr&date_format=j%20M%5B%20Y%5D)
-(https://github-readme-stats.vercel.app/api?username=Yuasset&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Yuasset&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121)
