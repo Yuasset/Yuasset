@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Yuşa Çağatay GÜNAYDIN </h1>
 
-![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
+![](https://komarev.com/ghpvc/?username=Yuasset-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
 <!-- 💼 Always <b>looking for a new better job</b> -->
@@ -24,21 +24,14 @@ You can click the Preview link to take a look at your changes.
 # 🤝 Contact Me
 
 <p align ="center">
-  
-  <a href ="https://discord.gg/raDKEF3gbG" role="join discord">
+  <a href ="https://t.me/AssetGroup" role="Telegram">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
-    <a href ="https://join.skype.com/invite/Fd1B3SvLPPTF" role="Skype">
-  <img src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white"/>
-  </a>
-  <a href ="https://twitter.com/AhmNouira" role="Twitter">
+  <a href ="https://twitter.com/Yuasset" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href ="https://www.linkedin.com/in/ahmnouira/" role="LinkedIn">
+  <a href ="https://www.linkedin.com/in/yuşa/?locale=en_US" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-   <a href ="https://www.facebook.com/ahmed.nouira.7792/">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
 
