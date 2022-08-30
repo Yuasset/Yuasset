@@ -38,20 +38,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
 </p>
-
-# ✍️ Blogs
-
-<p align ="center">
-  <a href="https://www.instructables.com/member/Ahmed+Nouira/">
-  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
-  </a>
-  <a href="https://dev.to/ahmnouira">
-  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-   <a href="https://medium.com/@ahmnouira">
-  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
- </p>
  
 # 📺 Youtube
 
@@ -63,28 +49,28 @@ You can click the Preview link to take a look at your changes.
 
 # 📉 My Stats
 
-> **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/ahmnouira)**
+> **:octocat: [Github Profile Summary](https://profile-summary-for-github.com/user/Yuasset)**
 
 <p align="center" >
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmnouira&theme=tokyonight_duo" />
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=Yuasset&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuasset&theme=tokyonight_duo" />
 </a>
 </p>
 
 <p align="center" >
-<a href="https://wakatime.com/@ahmnouira" target="\_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmnouira&v=2&langs_count=10&custom_title=💻 My Top 10 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 10 🔝" />
+<a href="https://wakatime.com/@Yuasset" target="\_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuasset&v=2&langs_count=10&custom_title=💻 My Top 10 🔝&theme=nightowl&count_private=true&count_private=true&border_radius=15&border_color=#212121" alt="💻 My Top 10 🔝" />
 </p>
 
 <p align="center" >
-<a href="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmnouira&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
+<a href="https://github-readme-stats.vercel.app/api?username=Yuasset&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yuasset&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=10&border_radius=15&border_color=#212121" /> 
   </a>
 </p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnouira&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuasset&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuasset&layout=compact&langs_count=20&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121" />
 </a>
 </p>
 
