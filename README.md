@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
   <a href ="https://t.me/AssetGroup" role="Telegram">
   <img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
-  <a href ="https://twitter.com/Yuasset" role="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
   <a href ="https://www.linkedin.com/in/yuşa/?locale=en_US" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/Yuasset" role="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href ="https://www.instagram.com/yusacagatay/" role="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=Instagram&logoColor=white"/>
