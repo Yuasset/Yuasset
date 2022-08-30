@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Yuşa Çağatay GÜNAYDIN </h1>
 
 ![](https://komarev.com/ghpvc/?username=Yuasset-st&style=flat&label=PROFILE+VIEWS&color=blue)
-[![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
+![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)
 
 <!-- 💼 Always <b>looking for a new better job</b> -->
 # 🗝️ About Me :tunisia:	
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align ="center">
   <a href ="https://t.me/AssetGroup" role="Telegram">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Telegram-7289da?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
   <a href ="https://twitter.com/Yuasset" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
