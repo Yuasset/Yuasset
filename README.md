@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in IT Specialist
 - 🌱 I’m currently learning python, unity3d, asp.net
 - 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
-- 📫 How to reach me https://www.linkedin.com/in/yuşa/?locale=en_US OR https://www.instagram.com/yusacagatay/
+- 📫 How to reach me # 🤝 Contact Me
 - 👯 Looking to collaborate on projects
-- 💬 Ask me about any help -=^.^=-
+- 💬 Ask me about any help ( ͡° ͜ʖ ͡°)
 
 # 🤝 Contact Me
 
