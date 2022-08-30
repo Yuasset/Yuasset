@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)
 
 <!-- 💼 Always <b>looking for a new better job</b> -->
-# 🗝️ About Me :turkish:	
+# 🗝️ About Me :turkey:	
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
 - 👀 I’m interested in IT Specialist
 - 🌱 I’m currently learning python, unity3d, asp.net
