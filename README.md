@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 # 🗝️ About Me :turkey:	
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
 - 👀 I’m interested in IT Specialist
-- 🌱 I’m currently learning python, unity3d, asp.net
+- 🌱 I’m currently learning python, unity3d, android
 - 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
 - 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me">🤝 Contact Me</a>
 - 👯 Looking to collaborate on projects
