@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 <!-- 💼 Always <b>looking for a new better job</b> -->
 # 🗝️ About Me :turkey:	
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
-- 👀 I’m interested in IT Specialist
-- 🌱 I’m currently learning python, unity3d, android
-- 💞️ I’m looking to collaborate on System Manager (Centos, ubuntu, pardus and windows server)
+- 👀 I’m interested in Software Developer
+- 🌱 I’m currently learning react, javascript, androidstudio
+- 💞️ I’m looking to collaborate on Software Developer (Java, PHP, JavaScript)
 - 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me">🤝 Contact Me</a>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help ( ͡° ͜ʖ ͡°)
