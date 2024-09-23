@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning react, javascript, androidstudio
-- 💞️ I’m looking to collaborate on Software Developer (Java, PHP, JavaScript)
+- 💞️ I’m looking to collaborate on Software Developer (ASP.Net, Java, PHP, JavaScript)
 - 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me">🤝 Contact Me</a>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help ( ͡° ͜ʖ ͡°)
