@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 # 🗝️ About Me :turkey:	
 - 👋 Hi, I’m @Yuasset (Yuşa Çağatay)
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning react, javascript, androidstudio
-- 💞️ I’m looking to collaborate on Software Developer (ASP.Net, Java, PHP, JavaScript)
+- 🌱 I’m currently learning react, androidstudio
+- 💞️ I’m looking to collaborate on Software Developer (ASP.Net Core, Java, PHP, JavaScript)
 - 📫 How to reach me <a href ="https://github.com/Yuasset#-contact-me">🤝 Contact Me</a>
 - 👯 Looking to collaborate on projects
 - 💬 Ask me about any help ( ͡° ͜ʖ ͡°)
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <a href ="https://www.linkedin.com/in/yuşa/?locale=en_US" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href ="https://twitter.com/Yuasset" role="Twitter">
+  <a href ="https://twitter.com/yuasset" role="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href ="https://www.instagram.com/yusacagatay/" role="Instagram">
